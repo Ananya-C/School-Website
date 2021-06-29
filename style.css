@@ -1,0 +1,130 @@
+body{
+    
+}
+#home{
+    text-align: center;
+}
+
+.main-img{
+    width:600px;
+height: 500px;
+   
+}
+#mhs{
+    font-size: 30px;
+   text-align: center
+}
+#campus
+}
+#contact{
+    margin-left:50px;
+}
+#pricipal-icon{
+    width:250px;
+      border: 10px solid red ;
+  border-radius: 200px;
+}
+#ch{
+    text-align: center;
+}
+#clh{
+    text-align:center;
+}
+.row::after{
+    align-content: "";
+        clear:both;
+    display:table;
+}
+.travel_mainDiv{
+    float:left;
+    width:33.33%
+        padding:5px;
+    border:1px solid #c7c7c7;
+    margin-left:20px;
+}
+.travel_mainDiv img{
+    width:320px;
+    height:300px;
+    margin-left:20px;
+}
+.travel_mainDiv hr{
+    width:100%
+}
+
+#travel{
+    text-align:center;
+    background-color:
+}
+.movie_head{
+    font-size: 20px; padding: 6px 22px; border-radius: 10px; margin-bottom: 15px; width: 100%; display: inline-block;
+}
+.movie_head i { float: right; } .movie_text span { color: #ff7700; }
+.bookim{
+    width:350px;
+    height:300px;
+}
+#sa2{
+    margin-top:70px;
+}
+#alumini1{
+    width:350px;
+    height: 300px;
+}
+#alumini2{
+    width:350px;
+    height: 300px;
+}
+#alumini3{
+    width:350px;
+    height: 300px;
+}
+#alumini4{
+    width:350px;
+    height: 300px;
+}
+#footer{
+    height:20px;
+    background-color:white;
+}
+.modal-content{
+    margin-top:100px;
+}
+.img_modal{
+    display:inline-block;
+}
+.p_modal{
+    margin-top:10px;
+}
+.modal-body{
+    text-align:center;
+}
+#AS{
+    width: 450px;
+}
+#AR{
+   width:450px; 
+}
+#AS{
+width:450px;
+}
+#contact{
+    text-align: center;
+}
+#marqueeStyle{
+    font-size 25px;
+    background-color:black;
+    color:white;
+}
+#sa1{
+    background-color:cadetblue;
+    }
+#sa2{
+    background-color:cadetblue;
+    }
+#movies{
+    text-align:center;
+}
+#blog{
+    margin-bottom:100px;
+    text-align:center;
+}
